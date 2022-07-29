@@ -2,6 +2,7 @@
 Get Trails on your hand! Customize your trail and make it as you wish!
 
 ![Screenshot_7](https://user-images.githubusercontent.com/105093518/181674310-c54ad772-d013-43ec-962b-1f89b2d74258.png)
+https://youtu.be/Coj5nzaxETQ
 #
 ### Details & Instructions
 - This mod will only work with **Utilla 1.5.0+** ([Latest Version](https://github.com/legoandmars/Utilla/releases/latest)).
