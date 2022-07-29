@@ -16,7 +16,7 @@ Youtube Video: https://youtu.be/Coj5nzaxETQ
 3. Extract the downloaded file, and move it inside the plugins folder (`../BepInEx/plugins/`).
 With that, you should now have your mod installed!
 
-[Alternative Download Link](https://github.com/FlyinC4T/GorillaTrails/releases/download/1.0.0/GorillaTrails_v1.0.0.zip)
+## [Alternative Download Link](https://github.com/FlyinC4T/GorillaTrails/releases/download/1.0.0/GorillaTrails_v1.0.0.zip)
 #
 ### Credits/Thanks
 - *kt*/*OE_KT* on Discord. Helped me fix and monitor my fails and wrong-doings' lol
